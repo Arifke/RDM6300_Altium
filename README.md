@@ -1,2 +1,2 @@
 # RDM6300_Arduino
-RDM6300 modülünü bu kod ile çalışmasını gözlemleyebilirsiniz
+You can observe the RDM6300 module working with this code
